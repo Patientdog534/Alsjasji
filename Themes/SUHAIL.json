@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "𝙈𝘾𝙍𝙊𝙎𝙎",
-    "theme": "♆𝑴𝑪𝑹𝑶𝑺𝑺-𝑴𝑫♆",
+    "AUTHOR": "𝙈AWELL",
+    "theme": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
     "LANGUAGE": "English",
     "LANGCODE": "en", 
     "STRINGS": { 
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Mcross-Md",
+            "botName": "Maxwell-md",
             "body": "whatsapp User Bot", 
             "greet2" : "Thanks To King Mcross",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
