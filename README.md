@@ -16,7 +16,7 @@
   <a aria-label="Mcross_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Mcross_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Maxwell_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -28,7 +28,7 @@
 
 
 
-<p align="center"> Mcross MD whatsapp bot uses
+<p align="center"> Maxwell MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -96,21 +96,21 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349042566473`](https://wa.me/2349042566473)
+- If any problem, then [`+2349120730021`](https://wa.me/2349120730021)
 
 
 ### Thanks To
-- [KÎÑG M-ÇRØSS](https://github.com/M-cross1) 
+- [𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●](https://github.com/M-cross1) 
 
 
-The MCROSS_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The Maxwell_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
 </h2>
    
 ## 
-- *Mcross-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Maxwell-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Mcross-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
+- *Use Maxwell-md at your own risk by keeping this warning in mind so make una no go blame me (𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
