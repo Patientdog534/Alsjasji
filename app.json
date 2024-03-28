@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "6aedf33e-ccf9-435e-9dd8-ebd1147b3592",
+      "value": "a272ee0a-a2f7-4cd8-93c1-6b0a0f9c4ee3",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
